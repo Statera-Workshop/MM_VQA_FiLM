@@ -1,3 +1,10 @@
+<!-- PAI-SG-LINKS:BEGIN -->
+## Project Links
+
+- [Project Portal](https://statera-workshop.github.io/#repo-mm_vqa_film)
+- [Statera Workshop Portal](https://statera-workshop.github.io/)
+<!-- PAI-SG-LINKS:END -->
+
 # MM_VQA_FiLM
 
 **FiLM on Sort-of-CLEVR - convergence study (PAI-SG Multimodal Wave 2)**
